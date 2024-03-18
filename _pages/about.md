@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 20 | Macau | Undergraduate | University of Macau
 
 profile:
   align: right
@@ -17,7 +17,6 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-### Biography
-Hi this is stephen, (to add)
-
-### Social media connections
+Hi this is Stephen. 
+I am a year 1 undergraduate majoring in computer science in University of Macau. <br/>
+<br/>In this blog, I intend to document my technical notes, reflections, and newfound knowledge. 
